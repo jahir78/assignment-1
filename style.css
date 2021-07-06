@@ -1,9 +1,48 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 5px;
 }
 h1{
     font-size: 50px;
+    word-spacing: none;
+    font-size: 50px;
+}
+p{
+    padding-bottom: 40px;
 }
 .orange-colour{
     color: orange;
+}
+section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 2%;
+    
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 20px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 40px;
+}
+.half-width img{
+    width: 80%;
+}
+.shapes{
+    background-image: url(images/shapes/7.png);
+}
+.shapes p{
+    padding: 40px;
+    text-align: justify;
+}
+.shapes h2{
+    padding-top: 10px;
 }
