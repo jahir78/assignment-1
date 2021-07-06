@@ -75,4 +75,9 @@ p{
 .onethird-width h2{
     text-align: left;
 }
+footer{
+    text-align: center;
+    color: gray;
+    background-color: black;
+}
     
